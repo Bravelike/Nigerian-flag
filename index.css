@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: aliceblue;
+}
+
+.container{
+    margin: 50px;
+    display: flex;
+}
+.pipe{
+    background-color: silver;
+    width: 20px;
+    height: 600px;
+}
+
+.flag-container{
+    background-color: #008753;
+    width: 600px;
+    height: 300px;
+}
+.white-section{
+    background-color: white;
+    width: 200px;
+    height: 300px;
+    margin: 0 auto;
+} 
+.white-section img{
+    width: 100px;
+    position: relative;
+    left: 25%;
+    top: 25%;
+}
